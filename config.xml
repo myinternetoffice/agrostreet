@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.agrostreet" version="1.0.0">
   <name>AgroStreet</name>
   <description>Agro Street</description>
-  <author href="http://www.early2u.com" email="myinternetoffice@gmail.com">AS Team</author>
+  <author href="http://www.agrostreet.com" email="myinternetoffice@gmail.com">AS Team</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="phonegap-version" value="3.5.0"/>
